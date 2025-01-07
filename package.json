@@ -1,0 +1,13 @@
+{
+  "name": "yarn-import-test",
+  "version": "1.0.0",
+  "description": "Test project for importing npm modules.",
+  "main": "index.js",
+  "packageManager": "yarn@4.5.2",
+  "repository": {
+    "url": "https://github.com/code-engine/yarn-import-test",
+    "type": "git"
+  },
+  "author": "Code Engine <code-engine@users.noreply.github.com>",
+  "license": "MIT"
+}
